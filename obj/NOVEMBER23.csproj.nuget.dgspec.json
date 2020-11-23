@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\johnm_aq3t\\Desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj": {}
+    "C:\\Users\\johnm_aq3t\\desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj": {}
   },
   "projects": {
-    "C:\\Users\\johnm_aq3t\\Desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj": {
+    "C:\\Users\\johnm_aq3t\\desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\johnm_aq3t\\Desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj",
+        "projectUniqueName": "C:\\Users\\johnm_aq3t\\desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj",
         "projectName": "NOVEMBER23",
-        "projectPath": "C:\\Users\\johnm_aq3t\\Desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj",
+        "projectPath": "C:\\Users\\johnm_aq3t\\desktop\\ASP.NET\\NOVEMBER23\\NOVEMBER23.csproj",
         "packagesPath": "C:\\Users\\johnm_aq3t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\johnm_aq3t\\Desktop\\ASP.NET\\NOVEMBER23\\obj\\",
+        "outputPath": "C:\\Users\\johnm_aq3t\\desktop\\ASP.NET\\NOVEMBER23\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
