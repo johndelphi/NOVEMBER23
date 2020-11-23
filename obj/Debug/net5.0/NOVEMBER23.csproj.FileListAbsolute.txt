@@ -1,0 +1,16 @@
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\bin\Debug\net5.0\NOVEMBER23.exe
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\bin\Debug\net5.0\NOVEMBER23.deps.json
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\bin\Debug\net5.0\NOVEMBER23.runtimeconfig.json
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\bin\Debug\net5.0\NOVEMBER23.runtimeconfig.dev.json
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\bin\Debug\net5.0\NOVEMBER23.dll
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\bin\Debug\net5.0\ref\NOVEMBER23.dll
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\bin\Debug\net5.0\NOVEMBER23.pdb
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.csprojAssemblyReference.cache
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.AssemblyInfoInputs.cache
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.AssemblyInfo.cs
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.csproj.CoreCompileInputs.cache
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.dll
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\ref\NOVEMBER23.dll
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.pdb
+C:\Users\johnm_aq3t\Desktop\ASP.NET\NOVEMBER23\obj\Debug\net5.0\NOVEMBER23.genruntimeconfig.cache

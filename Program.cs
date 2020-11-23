@@ -1,4 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
+//generics what they are
+
+
 
 namespace NOVEMBER23
 {
@@ -6,7 +10,11 @@ namespace NOVEMBER23
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+             List<int> age =new List<int>();
+             age.Add(25);
+             
+             Console.WriteLine(age[0]);
+            
         }
     }
 }
