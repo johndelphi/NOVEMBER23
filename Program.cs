@@ -10,13 +10,15 @@ namespace NOVEMBER23
     {
         static void Main(string[] args)
          {
-        //      List<int> age =new List<int>();
-        //      age.Add(25);
-             
-        //      Console.WriteLine(age[0]);
-        // demo file storage
 
             
+        }
+
+        private static void DemoTextFile()
+        {
+            List<person> people=new List<person>();
+            
+
         }
     }
 }
